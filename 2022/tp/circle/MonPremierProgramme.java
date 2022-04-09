@@ -14,6 +14,7 @@ public class MonPremierProgramme {
 		Circle c; // c est une référence sur un objet de type Circle, pas encore un objet
 		c = new Circle(Double.parseDouble(args[0])); // c référence maintenant un objet alloué en mémoire
 		c.x = c.y = 10;  // ces valeurs sont stockées dans le corps de l’objet
+		//System.out.println("Le rayon est " + c.r); // impossible car le r est private
 		System.out.println("Aire de c :" + c.area());
 	}
 }
