@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Programme</string>
+    <string name="hint_password">Saisir le mot de passe</string>
+    <string name="hint_username">Saisir l\'identifiant</string>
+</resources>
