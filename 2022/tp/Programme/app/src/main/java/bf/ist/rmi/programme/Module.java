@@ -30,4 +30,13 @@ public class Module implements Serializable {
     public void setDuree(Integer duree) {
         this.duree = duree;
     }
+
+    @Override
+    public String toString() {
+        return "Module{" +
+                "libelle='" + libelle + '\'' +
+                ", description='" + description + '\'' +
+                ", duree=" + duree +
+                '}';
+    }
 }
