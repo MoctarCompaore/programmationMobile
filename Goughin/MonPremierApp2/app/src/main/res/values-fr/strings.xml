@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Première Application Android</string>
+    <string name="identifiant">Identifiant</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Password</string>
+    <string name="pwd">Votre mot de passe</string>
+    <string name="connect">Se connecter</string>
+</resources>

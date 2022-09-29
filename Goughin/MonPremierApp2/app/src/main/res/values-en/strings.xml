@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="identifiant">Identifier</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="pwd">Your password</string>
+    <string name="connect">Sign in</string>
+</resources>
